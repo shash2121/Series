@@ -10,3 +10,4 @@ for i in range(1,n+1):
     else:
         print("+",end=" ")
 print("=",sum)
+#code was changed
