@@ -7,6 +7,7 @@ for i in range(1,n+1):
     x=x*2;
     if(n==i):
         print()
+        print()
     else:
         print("+",end=" ")
 print("=",sum)
