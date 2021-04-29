@@ -9,5 +9,6 @@ for i in range(1,n+1):
         print()
     else:
         print("+",end=" ")
+        print("start"):
 print("=",sum)
 #code was changed
